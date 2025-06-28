@@ -79,6 +79,7 @@ Segurança: Criptografia de senhas (bcrypt), validação de dados, HTTPS
 ## 🗂️ Estrutura do Projeto
 
 store-shop/
+
 ├── cadastro.html
 
 ├── login.html
