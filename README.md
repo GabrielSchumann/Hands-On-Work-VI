@@ -69,7 +69,6 @@ Os protótipos das principais telas foram desenvolvidos no Figma, facilitando a 
 
 Frontend: JavaScript (lógica e interatividade)
 Backend: Python (Django)
-(Obs: O relatório cita Node.js/Nest.js, mas o texto principal indica Django. Ajuste conforme o real stack do projeto.)
 Banco de Dados: MySQL
 Prototipação: Figma
 Segurança: Criptografia de senhas (bcrypt), validação de dados, HTTPS
