@@ -1,4 +1,4 @@
-#  Store Shop - Loja E-commerce de movéis.
+## ![favicon-16x16](https://github.com/user-attachments/assets/438b1aa8-8eaf-43b1-aa86-c92e18ce5c4c) Store Shop - Loja E-commerce de movéis.
 
 Universidade Universidade do Vale do Itajaí (UNIVALI)  
 Curso Análise e Desenvolvimento de Sistemas  
