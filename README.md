@@ -136,5 +136,5 @@ O desenvolvimento segue as melhores práticas de arquitetura web, com separaçã
 ---
 
 ## Elaborado por:
-Gabriel da Silva Schumann, Jullia Moro Brisola, Maxwell Symon Moreira Lobato, Matheus dos Santos Moraes
+Matheus dos Santos Moraes, Gabriel da Silva Schumann, Jullia Moro Brisola e Maxwell Symon Moreira Lobato.
 UNIVALI – Análise e Desenvolvimento de Sistemas – 2025
