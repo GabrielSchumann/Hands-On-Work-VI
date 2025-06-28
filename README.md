@@ -80,15 +80,21 @@ Segurança: Criptografia de senhas (bcrypt), validação de dados, HTTPS
 
 store-shop/
 
-├── cadastro.html
-
 ├── login.html
+
+├── itens.html
 
 ├── compras.html
 
-├── painel-admin.html
+├── pagamento.html
+
+├── confirmação.html
 
 ├── assets/
+
+│   ├── icons/
+
+│   │   └── ícones.svg
 
 │   ├── css/
 
